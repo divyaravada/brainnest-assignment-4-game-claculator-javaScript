@@ -1,7 +1,7 @@
-var a = "";
-var b = "";
-var num = [];
-var ans;
+let a = "";
+let b = "";
+let num = [];
+let ans;
 
 // All the numbers and operators input will be stored in an array "num" using function "sendNum()"
 function sendNum(digit) {
